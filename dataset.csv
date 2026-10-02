@@ -1,14 +1,101 @@
-area,bedrooms,bathrooms,age,price
-1000,2,2,10,5000000
-1200,2,2,8,6000000
-1500,3,2,7,7500000
-1800,3,3,5,9000000
-2000,4,3,6,10000000
-2200,4,3,4,11000000
-2500,4,4,3,13000000
-2800,5,4,2,15000000
-3000,5,4,1,17000000
-3500,5,5,1,20000000
-2200,4,3,4,11000000
-2500,4,4,3,13000000
-2800,5,4,2,15000000
+message;label
+
+Congratulations! You have won a free lottery prize. Claim now;spam
+
+URGENT! You have won $1000 cash. Click here to claim; spam
+
+Win a free iPhone now. Click the link to receive your prize; spam
+
+Congratulations! You are selected for a cash reward;spam
+
+Get FREE money now. Limited time offer;spam
+
+Claim your free gift card before it expires;spam
+
+You have won a lucky draw. Send your details to claim;spam
+
+Exclusive offer! Buy now and get 90 percent discount;spam
+
+Congratulations winner! You have received a reward;spam
+
+Free vacation package waiting for you. Claim now;spam
+
+Earn money from home. Register now for free;spam
+
+Act now to receive your free bonus;spam
+
+You are a lucky winner. Claim your cash prize today;spam
+
+Special promotion! Get free shopping vouchers;spam
+
+Click now to win a brand new mobile phone; spam
+
+URGENT: Your account has won a reward. Claim immediately; spam
+
+Get rich quickly with this amazing opportunity; spam
+
+Free entry in our cash prize competition. Join now;spam
+
+You have been selected for a free gift. Click here; spam
+
+Limited time offer! Buy one get one free;spam
+
+Hello, are we still meeting today at 5 PM?;ham
+
+Please send me the project report before lunch;ham
+
+Your Python class is scheduled for tomorrow morning;ham
+
+Can you please call me when you are free?;ham
+
+Meeting has been moved to 3 PM today; ham
+
+Please find the attached document;ham
+
+Your appointment is confirmed for Monday;ham
+
+Let's discuss the project requirements tomorrow;ham
+
+Please submit your assignment by Friday;ham
+
+Your interview is scheduled for 11 AM;ham
+
+Can you send me the updated Excel file?;ham
+
+Students have a Python test tomorrow;ham
+
+Please review the attached report;ham
+
+I will reach the office at 10 AM;ham
+
+Let's have a meeting after lunch;ham
+
+Please confirm your attendance for tomorrow;ham
+
+The training session will start at 9 AM;ham
+
+Can you share the meeting link?;ham
+
+Please complete the project by Monday; ham
+
+Thank you for sending the information; ham
+
+Your order has been successfully delivered;ham
+
+Please check your email for the document;ham
+
+Can we reschedule the meeting to Friday?;ham
+
+I have completed the assigned task;ham
+
+Please call me after the class;ham
+
+Your payment has been received successfully;ham
+
+The project presentation is scheduled for tomorrow;ham
+
+Please send the student attendance report;ham
+
+Let's discuss the new project requirements;ham
+
+Your course registration has been confirmed; ham
